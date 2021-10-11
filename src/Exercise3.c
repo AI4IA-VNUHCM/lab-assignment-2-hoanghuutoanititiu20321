@@ -31,6 +31,7 @@ int main(int argc, char *argv[]) {
         }
     }
     if (testcase > 2)
+        printf ("%d", testcase);
 	
 	return 0;
 }
